@@ -8,5 +8,6 @@
 - Day 6 solved in `C++`
 - Day 7 solved in `C++`
 - Day 8 solved in `Kotlin`
+- Day 9 solved in `Kotlin`
 
 See [advent of code 2022](https://adventofcode.com/2022) for the competition.
