@@ -11,5 +11,6 @@
 - Day 9 solved in `Kotlin`
 - Day 10 solved in `F#`
 - Day 11 solved in `F#`
+- Day 12 solved in `Matlab`
 
 See [advent of code 2022](https://adventofcode.com/2022) for the competition.
