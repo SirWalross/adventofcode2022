@@ -16,5 +16,6 @@
 - Day 14 solved in `Matlab`
 - Day 15 solved in `Go`
 - Day 17 solved in `Julia`
+- Day 18 solved in `R`
 
 See [advent of code 2022](https://adventofcode.com/2022) for the competition.
