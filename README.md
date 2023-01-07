@@ -21,5 +21,20 @@
 - Day 21 solved in `C`
 - Day 22 solved in `Dart`
 - Day 23 solved in `Dart`
+- Day 24 solved in `Haskell`
 
 See [advent of code 2022](https://adventofcode.com/2022) for the competition.
+
+## TODO Languages:
+- `Ruby`
+- `Haskell`
+- `Clojure`
+- `Python`
+- `Javascript/Typescript`
+- `Assembly`
+- `C#`
+- `Java`
+- `Pascal`
+- `Shell?`
+- `Visual Basic?`
+- `Cobal?`
