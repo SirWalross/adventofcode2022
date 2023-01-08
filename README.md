@@ -15,6 +15,7 @@
 - Day 13 solved in `Go`
 - Day 14 solved in `Matlab`
 - Day 15 solved in `Go`
+- Day 16 solved in `Python`
 - Day 17 solved in `Julia`
 - Day 18 solved in `R`
 - Day 20 solved in `C`
@@ -27,9 +28,7 @@ See [advent of code 2022](https://adventofcode.com/2022) for the competition.
 
 ## TODO Languages:
 - `Ruby`
-- `Haskell`
 - `Clojure`
-- `Python`
 - `Javascript/Typescript`
 - `Assembly`
 - `C#`
@@ -37,4 +36,4 @@ See [advent of code 2022](https://adventofcode.com/2022) for the competition.
 - `Pascal`
 - `Shell?`
 - `Visual Basic?`
-- `Cobal?`
+- `Cobalt?`
