@@ -14,3 +14,6 @@ analysis_options.yaml
 !*.dart
 *.o
 *.hi
+**/dist/**
+**/node_modules/**
+package-lock.json

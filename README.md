@@ -18,6 +18,7 @@
 - Day 16 solved in `Python`
 - Day 17 solved in `Julia`
 - Day 18 solved in `R`
+- Day 19 solved in `Typescript`
 - Day 20 solved in `C`
 - Day 21 solved in `C`
 - Day 22 solved in `Dart`
@@ -29,11 +30,13 @@ See [advent of code 2022](https://adventofcode.com/2022) for the competition.
 ## TODO Languages:
 - `Ruby`
 - `Clojure`
-- `Javascript/Typescript`
 - `Assembly`
 - `C#`
 - `Java`
 - `Pascal`
 - `Shell?`
 - `Visual Basic?`
-- `Cobalt?`
+- `Cobol?`
+- `Elixir?`
+- `Elm?`
+- `Scala?`
