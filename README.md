@@ -19,7 +19,7 @@
 - Day 17 solved in `Julia`
 - Day 18 solved in `R`
 - Day 19 solved in `Typescript`
-- Day 20 solved in `C`
+- Day 20 solved in `Swift`
 - Day 21 solved in `C`
 - Day 22 solved in `Dart`
 - Day 23 solved in `C#`
