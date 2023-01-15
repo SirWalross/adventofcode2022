@@ -12,7 +12,7 @@
 - Day 10 solved in `F#`
 - Day 11 solved in `F#`
 - Day 12 solved in `Matlab`
-- Day 13 solved in `Go`
+- Day 13 solved in `Scala`
 - Day 14 solved in `Matlab`
 - Day 15 solved in `Go`
 - Day 16 solved in `Python`
@@ -33,9 +33,9 @@ See [advent of code 2022](https://adventofcode.com/2022) for the competition.
 - `Assembly`
 - `Java`
 - `Pascal`
-- `Shell?`
-- `Visual Basic?`
-- `Cobol?`
-- `Elixir?`
+- `Shell`
+- `COBOL`
+- `Elixir`
+- `Scala`
 - `Elm?`
-- `Scala?`
+- `Lua`
