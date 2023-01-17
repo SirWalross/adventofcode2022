@@ -17,3 +17,4 @@ analysis_options.yaml
 **/dist/**
 **/node_modules/**
 package-lock.json
+*.class
